@@ -4,8 +4,7 @@
 #### Design and development
 ![Design and development]
 
-I'm Alex Chua from Singapore, and I do content on Design and Development . I am really enjoy in learning languages like Java and Python ...
-
+I'm Alex Chua from Singapore, and I do content on Design and Development . With years of self-taught experience and an precarious thirst for programming knowledge, I am constantly striving to elevate my skills to newer heights
 Skills: JAVA // PYTHON // GIT
 
 - 🔭 I’m currently working on this page. 
